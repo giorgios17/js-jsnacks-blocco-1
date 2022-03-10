@@ -3,3 +3,28 @@
     margin: 0;
     padding: 0;
 }
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: greenyellow;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.m-btm-30{
+    margin-bottom: 30px;
+}
+
+.invitati{
+    border: 2px solid black;
+    height: 100px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+#controllo{
+    font-weight: bold;
+}
